@@ -19,3 +19,11 @@
 -Podemos ver o log com os ultimos commits com cmd 'git log'
 -Ponto!
 
+//Criando uma nova branch:
+-Quando criar? Quando for ficar um tempo considerado implementado umannova feature, corrigindo um bug..
+-Como criar? Cmd 'git checkout -b nomeDoBranch'
+-Podemos dar um criar novos arquivos para testar
+-Agora de um 'git add .' e um 'git commit -m "xyz"' para salvar essas alterações.
+-Teste agora um 'git log' e veja os novas alterações.
+-Tente voltar para o branch master com o cmd 'git checkout master'. Voce vera que nesse branch nenhuma alteração ocorreu.
+
