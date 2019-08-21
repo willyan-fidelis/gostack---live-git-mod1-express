@@ -1,0 +1,9 @@
+//Dicas uso do git:
+-Antes de mais nada baixe e instale o git na sua maquina.
+-Depois configure o nome e email padrao do git(https://git-scm.com/book/pt-br/v1/Primeiros-passos-Configura%C3%A7%C3%A3o-Inicial-do-Git)
+-Criar arquivo '.gitignore' colocando arquivos ou pastas a serem ignoradas.
+-Para iniciar. Cmd: 'git init' na pasta do prj
+-Cmd: 'git add .' para add todos arquivos ou 'git add xyz.txt' para unico arquivo.
+-Cmd: 'git commit -m "chore: commit melhoria feature x"' (Chore: Commit inicial / fix feature xyz/ Feature: New view xyz)
+-Cmd 'git status' para ver status.
+-git
