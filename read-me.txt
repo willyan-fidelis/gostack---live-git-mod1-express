@@ -6,4 +6,7 @@
 -Cmd: 'git add .' para add todos arquivos ou 'git add xyz.txt' para unico arquivo.
 -Cmd: 'git commit -m "chore: commit melhoria feature x"' (Chore: Commit inicial / fix feature xyz/ Feature: New view xyz)
 -Cmd 'git status' para ver status.
--git
+-Chegou ahora de publicar o projeto remotamente (github, gitlab..):
+    -Criar projeto em sua conta github
+    -Cmd: 'git remote add origin https://github.com/willyan-fidelis/gostack---live-git-mod1-express.git'
+    -Cmd:  'git push -u origin master'
