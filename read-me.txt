@@ -34,7 +34,7 @@
 -Ai vamos para o github e vemos em 'Your recently pushed branches:' essa nova branch. Clicamos em 'compare e pull request' e depois 'create pull request'
 -Se for um time, pode-se pedir para um 'Reviewer' revisar o codigo de finalizar o processo.
 -Se for só voce entao podemos dar um 'Merge pull request'
-
+-Pronto!
 
 
 //Outros comandos:
