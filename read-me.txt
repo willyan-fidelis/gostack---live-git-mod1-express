@@ -31,10 +31,7 @@
 -Quando fazer: Quando a nova feature/bug estiver pronta/corrigida
 -Uma forma, porem NAO RECOMENDADA, é entrar o branch master e 'git merge nomeDaBranchParaMesclar'
 -Correto seria estar na branch a ser incorporada ao master e 'git push origin feature/nova-rota' sendo que o ultimo parametro é o nome remoto do branch
--Ai vamos para o github e vemos em 'Your recently pushed branches:' essa nova branch. Clicamos em 'compare e pull request' e depois 'create pull request'
--Se for um time, pode-se pedir para um 'Reviewer' revisar o codigo de finalizar o processo.
--Se for só voce entao podemos dar um 'Merge pull request'
--Pronto!
+
 
 
 //Outros comandos:
