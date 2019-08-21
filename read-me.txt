@@ -10,3 +10,12 @@
     -Criar projeto em sua conta github
     -Cmd: 'git remote add origin https://github.com/willyan-fidelis/gostack---live-git-mod1-express.git'
     -Cmd:  'git push -u origin master'
+    -Pronto!
+    -Nos proximos push para o repositorio remoto basta 'git push'. O cmd 'git push -u origin master' tbem funciona mas é mais usado na primeira vez.
+    
+//Clonando projeto em outra maquina:
+-Cmd: 'git clone https://github.com/willyan-fidelis/gostack---live-git-mod1-express'
+-Agora podemos entrar na pasta 'cd gostack---live-git-mod1-express'
+-Podemos ver o log com os ultimos commits com cmd 'git log'
+-Ponto!
+
