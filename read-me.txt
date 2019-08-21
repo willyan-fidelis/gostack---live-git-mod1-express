@@ -20,10 +20,20 @@
 -Ponto!
 
 //Criando uma nova branch:
--Quando criar? Quando for ficar um tempo considerado implementado umannova feature, corrigindo um bug..
+-Quando criar? Quando for ficar um tempo considerado grande implementado uma nnova feature, corrigindo um bug..Se a feature for pequena um commit resolve, caso seja muito grande a nova feature entao um novo branch é recomendado.
 -Como criar? Cmd 'git checkout -b nomeDoBranch'
 -Podemos dar um criar novos arquivos para testar
 -Agora de um 'git add .' e um 'git commit -m "xyz"' para salvar essas alterações.
 -Teste agora um 'git log' e veja os novas alterações.
 -Tente voltar para o branch master com o cmd 'git checkout master'. Voce vera que nesse branch nenhuma alteração ocorreu.
 
+//Mesclando um branch Criando com o branch master:
+-Quando fazer: Quando a nova feature/bug estiver pronta/corrigida
+-Uma forma, porem NAO RECOMENDADA, é entrar o branch master e 'git merge nomeDaBranchParaMesclar'
+-Correto seria estar na branch a ser incorporada ao master e 'git push origin feature/nova-rota' sendo que o ultimo parametro é o nome remoto do branch
+
+
+
+//Outros comandos:
+-'git remote' imprime o nome remoto, por padrão é 'origin'
+-'git remote -v' imprime a URL de onde esta este repositorio
