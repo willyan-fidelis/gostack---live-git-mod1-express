@@ -36,7 +36,16 @@
 -Se for só voce entao podemos dar um 'Merge pull request'
 -Pronto!
 
+//Buscando o que esta no repositorio remoto(github) para o PC local:
+-Quando fazer isso? Quando vc não estiver com o codigo mais atual, ou achar que nao esta com o codigo mais atual.
+-Cmd: 'git pull'
+-Pronto! As ultimas atualizações que estavam no repositorio github vão para seu PC local.
+
 
 //Outros comandos:
 -'git remote' imprime o nome remoto, por padrão é 'origin'
 -'git remote -v' imprime a URL de onde esta este repositorio
+
+//Para estudar/avançado:
+-git rebase
+-Plugin VSCode: GitLens
