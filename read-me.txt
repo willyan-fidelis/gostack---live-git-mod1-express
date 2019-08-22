@@ -49,3 +49,7 @@
 //Para estudar/avançado:
 -git rebase
 -Plugin VSCode: GitLens
+
+//Dicas:
+-Apagar branches antigos/não utilizados
+-'git log' travado: digite q

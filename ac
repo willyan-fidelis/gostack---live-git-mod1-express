@@ -1,0 +1,101 @@
+[33mcommit c0e10a91154db06802006d71750f178eed586f89[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Willyan Fidelis <willyan.sergio.fidelis@gmail.com>
+Date:   Thu Aug 22 01:02:15 2019 -0300
+
+    ultimos detalhes read-me.txt
+
+[33mcommit de484cd654026236e8a09341afdbe205bd396198[m
+Merge: e7266ff b5ce133
+Author: Willyan Fidelis <54360592+willyan-fidelis@users.noreply.github.com>
+Date:   Wed Aug 21 12:14:16 2019 -0300
+
+    Merge pull request #4 from willyan-fidelis/revert-3-revert-2-feature/nova-rota
+    
+    Revert "Revert "Feature/nova rota""
+
+[33mcommit b5ce1335230171950d01b116e21ea63127d4fda5[m[33m ([m[1;31morigin/revert-3-revert-2-feature/nova-rota[m[33m)[m
+Author: Willyan Fidelis <54360592+willyan-fidelis@users.noreply.github.com>
+Date:   Wed Aug 21 12:13:58 2019 -0300
+
+    Revert "Revert "Feature/nova rota""
+
+[33mcommit e7266ff5f3cf49313b6425e2b4851c56bc479e8a[m
+Merge: 6e8e147 5966628
+Author: Willyan Fidelis <54360592+willyan-fidelis@users.noreply.github.com>
+Date:   Wed Aug 21 12:13:00 2019 -0300
+
+    Merge pull request #3 from willyan-fidelis/revert-2-feature/nova-rota
+    
+    Revert "Feature/nova rota"
+
+[33mcommit 5966628312f0a4294410f16f419fe5d31396639e[m[33m ([m[1;31morigin/revert-2-feature/nova-rota[m[33m)[m
+Author: Willyan Fidelis <54360592+willyan-fidelis@users.noreply.github.com>
+Date:   Wed Aug 21 12:12:04 2019 -0300
+
+    Revert "Feature/nova rota"
+
+[33mcommit 6e8e1474441657d99eb56ba27e72070b4f04485f[m
+Merge: 169da59 a966fe8
+Author: Willyan Fidelis <54360592+willyan-fidelis@users.noreply.github.com>
+Date:   Wed Aug 21 12:04:45 2019 -0300
+
+    Merge pull request #2 from willyan-fidelis/feature/nova-rota
+    
+    Feature/nova rota
+
+[33mcommit a966fe87814250e0f65bb49ad2f1a7de30b33ac9[m[33m ([m[1;31morigin/feature/nova-rota[m[33m, [m[1;32mfeature/nova-rota[m[33m)[m
+Author: Willyan Fidelis <willyan.sergio.fidelis@gmail.com>
+Date:   Wed Aug 21 12:01:55 2019 -0300
+
+    change: alteração read-me.txt
+
+[33mcommit e6d9bf211724c98152ce60c992b5bb7c97461a08[m
+Author: Willyan Fidelis <willyan.sergio.fidelis@gmail.com>
+Date:   Wed Aug 21 12:01:49 2019 -0300
+
+    change: alteração read-me.txt
+
+[33mcommit 169da59eac7cb99e07a2f30963e05472e8163670[m
+Merge: f64b09e fa121bd
+Author: Willyan Fidelis <54360592+willyan-fidelis@users.noreply.github.com>
+Date:   Wed Aug 21 12:00:32 2019 -0300
+
+    Merge pull request #1 from willyan-fidelis/feature/nova-rota
+    
+    Feature/nova rota
+
+[33mcommit fa121bdb0b6807baf8e036a6c20b93d68749c7b2[m
+Author: Willyan Fidelis <willyan.sergio.fidelis@gmail.com>
+Date:   Wed Aug 21 11:51:21 2019 -0300
+
+    change: alteração read-me.txt
+
+[33mcommit 7a64b813dbf79aa90504689bbd8788acf11bc482[m
+Author: Willyan Fidelis <willyan.sergio.fidelis@gmail.com>
+Date:   Wed Aug 21 11:13:04 2019 -0300
+
+    chages: read-me changed
+
+[33mcommit 6f81ad96bbf638a022312225310b50667d244f0d[m
+Author: Willyan Fidelis <willyan.sergio.fidelis@gmail.com>
+Date:   Wed Aug 21 11:03:26 2019 -0300
+
+    add new route
+
+[33mcommit f64b09eb71c989a8876e90db05bd28776911de03[m[33m ([m[1;32mnomeDoBranchclr[m[33m)[m
+Author: Willyan Fidelis <willyan.sergio.fidelis@gmail.com>
+Date:   Wed Aug 21 10:26:41 2019 -0300
+
+    chore: alterado instruções no read-me
+
+[33mcommit cfb87c31234d376de58406147aabacd0c1c62de1[m
+Author: Willyan Fidelis <willyan.sergio.fidelis@gmail.com>
+Date:   Wed Aug 21 10:16:07 2019 -0300
+
+    chore: altera read-me.txt
+
+[33mcommit b7d3ad86c20e1929aa776885272f451d4b382dd4[m
+Author: Willyan Fidelis <willyan.sergio.fidelis@gmail.com>
+Date:   Wed Aug 21 10:13:13 2019 -0300
+
+    chore: commit inicial
