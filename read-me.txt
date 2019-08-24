@@ -41,10 +41,19 @@
 -Cmd: 'git pull'
 -Pronto! As ultimas atualizações que estavam no repositorio github vão para seu PC local.
 
+//Revertendo ultimo(s) commit(s) localmente(anstes de ir p/ github)
+-Fez caca e quer reverter ultimo commit?
+-Cmd: 'git reset --soft f8eef9b04ab69f022f11a2527decb3eb5a5c313f'
+-onde 'f8eef9b04ab69f022f11a2527decb3eb5a5c313f' é a id/hash do commit
 
 //Outros comandos:
 -'git remote' imprime o nome remoto, por padrão é 'origin'
 -'git remote -v' imprime a URL de onde esta este repositorio
+
+//Começou uma alteração e quer congerlar-la por um tempo, p poder trabalhar no projeto antes de alterado?
+-Cmd 'git stash' esconde/bloqueia as alterações recentes, voltando o repositorio local ao status anterior.
+-Cmd 'git stash pop' remove o escondido, para que voce posa voltar ao fluxo de alterações bloqueado anteriormente.
+-Curiosidade: Com o cmd 'git stash list' mostra a lista de tarefas escondidas/bloqueadas
 
 //Para estudar/avançado:
 -git rebase
